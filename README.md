@@ -11,11 +11,16 @@ A lightweight foundation for your next webpack based frontend project.
 npm install
 ```
 
-### Start Dev Server
+### Start Dev Server for specific topic
 
 ```
-npm start
+npm run FILE
 ```
+
+Where FILE can must be replaced by one of options:
+
+- index For index.js file which is a playground for testing
+- constants For js file with example of how to use and not to use constants
 
 ### Build Prod Version
 
