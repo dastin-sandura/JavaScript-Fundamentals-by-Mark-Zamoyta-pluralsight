@@ -1,8 +1,9 @@
-# Webpack Frontend Starterkit
+# JavaScript learning repository
+
+Repository for learning Javascript in which code base is driven by Pluralsight course 'JavaScript Fundamentals by Mark Zamoyta' - https://app.pluralsight.com/library/courses/javascript-fundamentals
+
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/wbkd/webpack-starter.svg)](https://greenkeeper.io/)
-
-A lightweight foundation for your next webpack based frontend project.
 
 
 ### Installation
