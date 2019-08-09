@@ -1,6 +1,8 @@
 # JavaScript learning repository
 
-Repository for learning Javascript in which code base is driven by Pluralsight course 'JavaScript Fundamentals by Mark Zamoyta' - https://app.pluralsight.com/library/courses/javascript-fundamentals
+Repository for learning Javascript in which code base is driven by Pluralsight course 'JavaScript Fundamentals by Mark Zamoyta' - https://app.pluralsight.com/library/courses/javascript-fundamentals.
+
+Forked from https://github.com/wbkd/webpack-starter.
 
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/wbkd/webpack-starter.svg)](https://greenkeeper.io/)
