@@ -19,8 +19,8 @@ npm run FILE
 
 Where FILE can must be replaced by one of options:
 
-- index For index.js file which is a playground for testing
-- constants For js file with example of how to use and not to use constants
+- **index** For index.js file which is a playground for testing
+- **constants** For js file with example of how to use and not to use constants
 
 ### Build Prod Version
 
