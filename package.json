@@ -5,8 +5,8 @@
   "scripts": {
     "build": "NODE_ENV=production webpack --config webpack/webpack.config.prod.js  --colors",
     "index": "webpack-dev-server --open --config webpack/webpack.config.dev.index.js",
-    "constants": "webpack-dev-server --open --config webpack/webpack.config.dev.constants.js"
-
+    "constants": "webpack-dev-server --open --config webpack/webpack.config.dev.constants.js",
+    "variables": "webpack-dev-server --open --config webpack/webpack.config.dev.variables.js"
   },
   "repository": {
     "type": "git",
